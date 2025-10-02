@@ -1,2 +1,2 @@
-# ward
+# WARD
 Wrangling Accounting Research Data
