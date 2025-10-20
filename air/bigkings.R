@@ -5,7 +5,6 @@
 library(httr)
 library(jsonlite)
 library(lubridate)
-library(readxl)
 library(tidyverse)
 
 #################################################################################################################################
