@@ -44,4 +44,4 @@ print(report_table)
 
 # 필요한 경우 엑셀 저장
 # install.packages("writexl")
-# writexl::write_xlsx(report_table, "naver_reports
+# writexl::write_xlsx(report_table, "naver_reports.xlsx")
