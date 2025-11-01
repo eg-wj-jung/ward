@@ -1,5 +1,5 @@
 #################################################
-#### 지급별 감사시간(KOSDAQ)
+#### 직급별 감사시간(KOSDAQ)
 #################################################
 
 list_xml <- list.files(path = file.path(data_dir, biz_report_listed_kosdaq_xml_dir), full.names = TRUE, recursive = TRUE)
