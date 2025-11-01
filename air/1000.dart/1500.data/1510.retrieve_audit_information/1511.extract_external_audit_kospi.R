@@ -1,5 +1,5 @@
 #################################################
-#### /ward/processing/dart/r/pdr08_xml_handler.R 
+#### 직급별 감사시간(KOSPI)
 #################################################
 
 list_xml <- list.files(path = file.path(data_dir, biz_report_listed_kospi_xml_dir), full.names = TRUE, recursive = TRUE)
